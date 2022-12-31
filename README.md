@@ -6,7 +6,11 @@ This project is a rhythm game, and it follows a classic four-lane design (e.g. D
 
 [Video submission I used for class](https://youtu.be/rv-ArUMxR9Q)
 
-![](./assets/start-screen.gif) ![](./assets/song-selection.gif) ![](./assets/gameplay.gif)
+<p float="left">
+  <img src="./assets/start-screen.gif" width="200" />
+  <img src="./assets/song-selection.gif" width="200" /> 
+  <img src="./assets/gameplay.gif" width="200" />
+</p>
 
 ## Implementation
 In terms of implementation, the game is made using UCLA's Tiny Graphics library, which is a wrapper for WebGL. The assets comprise only 2D art. The objects in the game are all textured planes--there are no 3D objects. Depth-testing is disabled in order to get alpha blending among images working correctly (and therefore, extra care is taken in ordering the draw calls).

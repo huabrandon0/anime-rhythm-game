@@ -4,6 +4,8 @@
 This is a project made for a computer graphics class I took in college.
 This project is a rhythm game, and it follows a classic four-lane design (e.g. Dance Dance Revolution) where the player must hit notes as they travel down the screen. The music and art is appropriated from the animated movie *Your Name* (2016).
 
+[Video submission I used for class](https://youtu.be/rv-ArUMxR9Q)
+
 ## Implementation
 In terms of implementation, the game is made using UCLA's Tiny Graphics library, which is a wrapper for WebGL. The assets comprise only 2D art. The objects in the game are all textured planes--there are no 3D objects. Depth-testing is disabled in order to get alpha blending among images working correctly (and therefore, extra care is taken in ordering the draw calls).
 

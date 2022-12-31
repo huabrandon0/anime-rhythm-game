@@ -7,9 +7,9 @@ This project is a rhythm game, and it follows a classic four-lane design (e.g. D
 [Video submission I used for class](https://youtu.be/rv-ArUMxR9Q)
 
 <p float="left">
-  <img src="./assets/start-screen.gif" width="200" />
-  <img src="./assets/song-selection.gif" width="200" /> 
-  <img src="./assets/gameplay.gif" width="200" />
+  <img src="./assets/gameplay.gif" width="300" />
+  <img src="./assets/song-selection.gif" width="300" /> 
+  <img src="./assets/start-screen.gif" width="300" />
 </p>
 
 ## Implementation

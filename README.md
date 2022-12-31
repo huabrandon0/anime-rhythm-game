@@ -26,6 +26,6 @@ Many of the special effects and animations are done using custom shaders. For ex
 4. Open browser and go to [http://localhost:8000](http://localhost:8000/)
 
 ## References
-* https://www.gamasutra.com/blogs/YuChao/20170316/293814/Music_Syncing_in_Rhythm_Games.php (Music syncing)
+* https://www.gamasutra.com/blogs/YuChao/20170316/293814/Music_Syncing_in_Rhythm_Games.php (music syncing)
 
-* https://github.com/ethanhjennings/webgl-fire-particles (Particle system)
+* https://github.com/ethanhjennings/webgl-fire-particles (particle system)

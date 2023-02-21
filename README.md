@@ -3,7 +3,7 @@
 
 This is a project I made for a computer graphics class I took in college. This project is a rhythm game, and it follows a classic four-lane design (e.g. Dance Dance Revolution) where the player must hit notes as they travel down the screen. The music and art is appropriated from the animated movie *Your Name* (2016).
 
-[Video submission I used for class](https://youtu.be/rv-ArUMxR9Q)
+This is the [video submission I used for class](https://youtu.be/rv-ArUMxR9Q).
 
 <p float="left" align="center">
   <img src="./assets/gameplay.gif" width="300" />
